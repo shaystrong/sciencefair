@@ -13,7 +13,8 @@ Starting April 1, 2020 and going through April 24, 2020, you can submit a scienc
 ### Rules:
 - 1 submission per child
 - You must submit your project writeup and materials here before April 24, 2020
-Enter Results
+<a src href=''>![](unnamed.png)</a src>
+
 
 ### Judging criteria:
 Entries will be judged on idea, documentation (use <a src=''><b>this</b> template</a>), novelty, thoroughness, and creativity. Kids 13+ years old are encouraged to create public Github repositories. Judges will be a mixture of Data Scientists, Astronomers, and Software Developers at EV.
