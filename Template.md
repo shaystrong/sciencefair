@@ -25,7 +25,7 @@ I have conducted some research that is leading me to believe I can do this. I am
 I will need:
 
 * 1 cardboard box
-* 1 raspberry pi ....
+* 1 raspberry pi (borrowed from an old project) ....
 
 ## Procedure
 
