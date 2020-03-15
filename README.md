@@ -38,14 +38,19 @@ Up to 5 years old
 ### Useful references & Project Ideas:
 
 https://publiclab.org
+
 https://makecode.adafruit.com
+
 https://www.youtube.com/playlist?list=PLSh2l8jOpghZUtpFvmBP8m5mUIYe1fTl6
+
 https://mysteryscience.com/school-closure-planning
+
 https://www.sciencebuddies.org/science-fair-projects/project-ideas/big-data
 
 <i>Data related to COVID-19</i>
 
 https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases
+
 https://www.tableau.com/covid-19-coronavirus-data-resources
 
 
