@@ -5,7 +5,7 @@ Calling all children of EV Employees!
 Yikes! We are all home for a few weeks. 
 
 <b>LET’S DO SCIENCE (& Engineering & Computer Programming)!</b>
-[](sarc-orco-meme.jog)
+[](sarc-orgo-meme.jpg)
 
 ## Submit a science project.
 Starting April 1, 2020 and going through April 24, 2020, you can submit a science project for the <b>first ever</b> EV Virtual ScienceFair! Children of all ages in all locations are welcome. One winner in each age category will be determined. Winning kids will receive a $50 Amazon gift card. All participants will receive a digital certificate.
