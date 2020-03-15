@@ -23,10 +23,15 @@ All types of projects are welcome, but we encourage an emphasis on engineering, 
 
 ### 1 winner per age bracket are:
 Up to 5 years old
+
 6 – 8 years old
+
 9 – 11 years old
+
 12 – 14 years old
+
 15+ years old
+
 
 <b><i> Winners will be announced May 1, 2020 on EV Workplace.</i></b>
 
