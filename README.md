@@ -13,7 +13,7 @@ Starting April 1, 2020 and going through April 24, 2020, you can submit a scienc
 ### Rules:
 - 1 submission per child
 - You must submit your project writeup and materials here before April 24, 2020
-<a src href=''>![](unnamed.png)</a src>
+<a src href=''>![](unnamed.png)</a>
 
 
 ### Judging criteria:
