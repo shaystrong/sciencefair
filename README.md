@@ -19,7 +19,7 @@ Entries will be judged on idea, documentation (use <a src href='https://github.c
 The judges are a mixture of Data Scientists, Astronomers, and Software Developers at EV.
 
 ### Project types:
-All types of projects are welcome, but we encourage an emphasis on engineering, computer science, data science, and coronavirus projects. Why corona virus you ask? – because there is a lot of amazing data. We want to see you ask questions and help us understand why we are all stuck at home.
+All types of projects are welcome, but we encourage an emphasis on engineering, computer science, data science, and coronavirus projects. Why coronavirus you ask? – because there is a lot of amazing data. We want to see you ask questions and help us understand why we are all stuck at home.
 
 ### 1 winner per age bracket are:
 Up to 5 years old
