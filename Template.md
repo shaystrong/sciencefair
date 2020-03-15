@@ -2,8 +2,10 @@
 
 ## Title
 
-<b>My Amazing Science Project!<b>
+<b>My Amazing Science Project!</b>
+
 Author: S. Strong, PhD
+
 Location: Bellevue, WA
 
 ## Plan:
