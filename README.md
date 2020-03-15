@@ -14,7 +14,7 @@ Starting April 1, 2020 and going through April 24, 2020, you can submit a scienc
 
 
 ### Judging criteria:
-Entries will be judged on idea, documentation (use <a src http='https://github.com/shaystrong/sciencefair/blob/master/Template.md'><b>this</b> template</a>), novelty, thoroughness, and creativity. Kids 13+ years old are encouraged to create public Github repositories and submit the link upon entering their results. 
+Entries will be judged on idea, documentation (use <a src http='https://github.com/shaystrong/sciencefair/blob/master/Template.md'><b>this template</b> </a>), novelty, thoroughness, and creativity. Kids 13+ years old are encouraged to create public Github repositories and submit the link upon entering their results. 
 
 The judges are be a mixture of Data Scientists, Astronomers, and Software Developers at EV.
 
