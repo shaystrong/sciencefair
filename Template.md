@@ -10,7 +10,7 @@ Location: Bellevue, WA
 
 ## Plan:
 
-I want to determine if I can make a robot get snacks for me. This robot needs to be able to use voice commands to navigate thgouh the house, from my room, to the kitchen. It must pick up a snack on the floor. I would like to determine, using only $25 in parts, how heavy a snack I can get the robot to pick up and how fast he can get it back to me.
+I want to determine if I can make a robot get snacks for me. This robot needs to be able to use voice commands to navigate through my house, from my room, to the kitchen. It must pick up a snack on the floor in the kitchen. I would like to determine, using only $25 in parts, how heavy a snack I can get the robot to pick up and how fast he can get it back to me.
 
 ## Hypothesis:
 
