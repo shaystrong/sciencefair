@@ -4,7 +4,7 @@ Calling all children of EV Employees!
 
 Yikes! We are all home for a few weeks. 
 
-<b>LET’S DO SCIENCE (& Engineering & Computer Programming)!</b>
+<i><b>LET’S DO SCIENCE (& Engineering & Computer Programming)!</b></i>
 ![](sarc-orgo-meme.jpg)
 
 ## Submit a science project.
