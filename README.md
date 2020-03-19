@@ -23,7 +23,7 @@ Kids 13+ years old are encouraged to create public Github repositories and submi
 
 All types of science is welcome; we encourage an emphasis on engineering, computer science, data science, and coronavirus projects. Why corona virus you ask? – because there is a lot of amazing data. We want to see you ask questions and help us understand why we are all stuck at home.
 
-### 1 winner per age bracket are:
+### 1 winner per age bracket:
 Up to 5 years old
 
 6 – 8 years old
