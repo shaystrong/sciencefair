@@ -5,7 +5,8 @@ Calling all children of EV Employees! Yikes! We are all home for a few weeks. <i
 ![](sarc-orgo-meme.jpg)
 
 ## Submit a science project.
-Starting April 1, 2020 and going through April 24, 2020, you can submit a science project for the <b>first ever</b> EV Virtual ScienceFair! Children of all ages in all locations are welcome. One winner in each age category will be determined. Winning kids will receive a $50 Amazon gift card. All participants will receive a digital certificate.
+The EV Machine Learning team and the Women-in-Tech group are co-sponsoring the FIRST EVER EV Virtual Science Fair! 
+Starting April 1, 2020 and going through April 24, 2020, you can submit a science project. Children of all ages, in all locations are welcome. One winner in each age category will be determined. Winning kids will receive a prize! All participants will receive a digital certificate.
 
 ### Rules:
 - 1 submission per child
@@ -14,12 +15,13 @@ Starting April 1, 2020 and going through April 24, 2020, you can submit a scienc
 
 
 ### Judging criteria:
-Entries will be judged on idea, documentation (use <a src href='https://github.com/shaystrong/sciencefair/blob/master/Template.md'><b>this template</b></a>), novelty, thoroughness, and creativity. Kids 13+ years old are encouraged to create public Github repositories and submit the link upon entering their results. 
+Entries will be judged on idea, documentation), novelty, thoroughness, and creativity. Please keep documentation to 500 – 1000 words). You can include a YouTube video link (maximum 2-3 minutes) upon submission.  Use this template for your documentation: https://github.com/shaystrong/sciencefair/blob/master/Template.md 
 
-The judges are a mixture of Data Scientists, Astronomers, and Software Developers at EV.
+Kids 13+ years old are encouraged to create public Github repositories and submit the link upon entering their results. The judges are a mixture of Data Scientists, Astronomers, and Software Developers at EV.
 
 ### Project types:
-All types of projects are welcome, but we encourage an emphasis on engineering, computer science, data science, and coronavirus projects. Why coronavirus you ask? – because there is a lot of amazing data. We want to see you ask questions and help us understand why we are all stuck at home.
+
+All types of science is welcome; we encourage an emphasis on engineering, computer science, data science, and coronavirus projects. Why corona virus you ask? – because there is a lot of amazing data. We want to see you ask questions and help us understand why we are all stuck at home.
 
 ### 1 winner per age bracket are:
 Up to 5 years old
@@ -53,4 +55,4 @@ https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases
 
 https://www.tableau.com/covid-19-coronavirus-data-resources
 
-
+https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge?utm_medium=email&utm_source=intercom&utm_campaign=CORD-19-research-chal-email 
